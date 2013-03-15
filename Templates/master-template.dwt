@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="950">
+	<tr>
+		<th colspan="2" scope="col">
+			<h1>Safety First Firearms and Ranges</h1>
+			<p><img src="../images/banner-image.jpg" width="950" height="150" alt="banner-picture" /></p>
+		</th>
+	</tr>
+	<tr>
+		<td width="318">
+			<h2>Navigation</h2>
+			<p><a href="../index.html">Home</a></p>
+			<p><a href="../about.html">About the Company</a></p>
+			<p>Items</p>
+			<ul>
+				<li><a href="../products/beretta.html">Beretta</a></li>
+				<li><a href="../products/sig-sauer.html">Sig Sauer</a></li>
+				<li><a href="../products/heckler-koch.html">Heckler &amp; Koch</a></li>
+				<li><a href="../products/walther-ppqm2.html">Walther PPQM2</a></li>
+			</ul>
+			<p>Locations</p>
+			<ul>
+				<li><a href="../locations/east-coast.html">East Coast</a></li>
+				<li><a href="../locations/west-coast.html">West Coast</a></li>
+				<li><a href="../locations/new-england.html">New England Area</a></li>
+				<li><a href="../locations/midwest.html">Midwest</a></li>
+			</ul>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+		</td>
+		<td width="628"><!-- TemplateBeginEditable name="content" -->&nbsp;<!-- TemplateEndEditable --></td>
+	</tr>
+	<tr>
+		<td colspan="2"><img src="../images/footer-image.jpg" width="950" height="150" alt="footer-image" /></td>
+	</tr>
+</table>
+</body>
+</html>
